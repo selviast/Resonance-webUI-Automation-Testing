@@ -2,6 +2,7 @@
 Final Project: Web UI &amp; API Automation Testing for Resonance Web Using Selenium &amp; Rest Assured.
 
 Web Resonance: https://resonance.dibimbing.id/
+
 API Resonance: https://resonance.dibimbing.id/docs
 
 - Requirement: 
