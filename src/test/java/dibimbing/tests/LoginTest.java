@@ -48,26 +48,3 @@ public class LoginTest extends BaseTest {
         loginPage.assertLoginSuccess();
     }
 }
-//
-//    @Test(groups = {"regression", "test-log"})
-//    public void testLogin1() {
-//        LoginPage loginPage = new LoginPage(DriverManager.getDriver());
-//        loginPage.login("standard_user", "secret_sauce");
-//    }
-
-//    @Test(groups = {"smoke", "p1"})
-//    public void testLogin2() {
-//        WebDriver driver = DriverManager.getDriver();
-//        LoginPage loginPage = new LoginPage(driver);
-//        ProductPage productPage = new ProductPage(driver);
-//
-//        loginPage.login("standard_user", "secret_sauce");
-//        productPage.assertProductPage();
-//    }
-//
-//    @Test(groups = {"smoke", "p2"})
-//    public void testLogin3() {
-//        LoginPage loginPage = new LoginPage(DriverManager.getDriver());
-//        loginPage.login("standard_user", "secret_sauce");
-//    }
-//}

@@ -69,8 +69,6 @@ public class RegisterPage extends BasePage{
                 ));
         Assert.assertTrue(toast.isDisplayed(), "Toast 'Registration Failed' muncul");
         log.info("Register gagal, toast tampil");
-
-
     }
 
     public void assertRegisterUserAlreadyExisted() {
@@ -80,8 +78,5 @@ public class RegisterPage extends BasePage{
                 ));
         Assert.assertTrue(toast.isDisplayed(), "Toast 'Registration Failed' muncul");
         log.info("Register gagal, toast tampil User Already Exists");
-
-
     }
-
 }
