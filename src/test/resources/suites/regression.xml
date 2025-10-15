@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SmokeTestSuite" verbose="1">
+    <listeners>
+        <listener class-name="dibimbing.core.TestListener"/>
+    </listeners>
+    <test name="LoginTests">
+        <groups>
+            <run>
+                <include name="regression"/>
+            </run>
+        </groups>
+        <classes>
+<!--            <class name="dibimbing.tests.LoginTest"/>-->
+            <class name="dibimbing.tests.RegisterTest"/>
+        </classes>
+    </test>
+</suite>

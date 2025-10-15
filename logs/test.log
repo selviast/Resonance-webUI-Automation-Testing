@@ -1,0 +1,397 @@
+2025-08-24 13:41:14.545 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-08-24 14:08:32.467 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-08-24 14:08:38.895 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-08-24 14:37:33.788 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: data1
+2025-08-24 14:37:40.395 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: data2
+2025-08-24 14:37:41.550 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-08-24 14:37:44.541 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-08-24 14:37:45.279 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-08-24 14:37:46.088 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-08-24 14:37:46.955 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-08-24 15:13:18.360 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/fransiskusandikasetiawan/Documents/rnd/learn-testng2/src/test/resources/config/staging.properties
+2025-08-24 15:13:18.364 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/fransiskusandikasetiawan/Documents/rnd/learn-testng2/src/test/resources/config/staging.properties
+2025-08-24 15:13:18.366 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: staging
+2025-08-24 15:13:53.313 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/fransiskusandikasetiawan/Documents/rnd/learn-testng2/src/test/resources/config/production.properties
+2025-08-24 15:13:53.318 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/fransiskusandikasetiawan/Documents/rnd/learn-testng2/src/test/resources/config/production.properties
+2025-08-24 15:13:53.321 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-08-24 15:14:06.214 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-08-24 15:14:12.405 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-08-24 15:15:08.718 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/fransiskusandikasetiawan/Documents/rnd/learn-testng2/src/test/resources/config/production.properties
+2025-08-24 15:15:08.721 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/fransiskusandikasetiawan/Documents/rnd/learn-testng2/src/test/resources/config/production.properties
+2025-08-24 15:15:08.723 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-08-24 15:15:16.875 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 10:34:24.219 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 10:34:24.221 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 10:34:24.221 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: staging
+2025-09-13 10:58:45.114 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 10:58:45.115 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 10:58:45.115 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: staging
+2025-09-13 10:59:40.940 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 10:59:40.942 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 10:59:40.942 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: staging
+2025-09-13 11:00:18.572 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 11:00:18.574 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 11:00:18.574 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: staging
+2025-09-13 11:01:15.084 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 11:01:15.085 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 11:01:15.085 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: staging
+2025-09-13 11:01:35.848 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 11:01:35.850 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 11:01:35.850 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: staging
+2025-09-13 11:01:38.592 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:01:38.817 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-09-13 11:06:09.829 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 11:06:09.830 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/staging.properties
+2025-09-13 11:06:09.830 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: staging
+2025-09-13 11:06:13.202 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:06:13.400 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-09-13 11:12:28.223 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:12:28.224 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:12:28.224 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-09-13 11:12:30.254 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:12:30.439 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-09-13 11:12:49.051 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:12:49.052 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:12:49.052 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-09-13 11:12:52.785 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:12:52.979 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-09-13 11:14:15.475 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:14:15.476 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:14:15.477 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-09-13 11:14:17.437 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:14:17.636 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-09-13 11:17:48.053 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:17:48.055 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:17:48.055 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-09-13 11:17:50.109 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:17:50.293 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-09-13 11:17:50.505 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:17:50.511 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin1
+2025-09-13 11:19:30.831 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:19:30.833 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:19:30.833 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-09-13 11:19:32.961 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:19:33.147 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-09-13 11:19:33.372 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:19:33.379 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin1
+2025-09-13 11:20:10.476 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:20:10.477 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:20:10.477 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-09-13 11:20:12.763 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:20:12.947 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-09-13 11:20:13.153 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:20:13.158 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin1
+2025-09-13 11:20:17.864 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:20:17.865 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:20:17.865 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-09-13 11:20:19.668 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:20:19.841 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-09-13 11:20:20.044 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:20:20.050 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin1
+2025-09-13 11:21:33.758 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:21:33.759 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:21:33.759 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-09-13 11:21:36.200 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:21:36.396 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-09-13 11:21:36.550 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:21:36.555 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin1
+2025-09-13 11:22:20.716 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:22:20.717 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/testng-selenium-master/src/test/resources/config/production.properties
+2025-09-13 11:22:20.717 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-09-13 11:22:22.647 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:22:22.835 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-09-13 11:22:23.036 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with username: standard_user
+2025-09-13 11:22:23.042 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin1
+2025-10-15 21:10:02.517 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: null
+2025-10-15 21:15:45.101 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/null.properties
+2025-10-15 21:19:23.745 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:19:23.747 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:19:23.747 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 21:19:27.747 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 21:19:27.785 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-10-15 21:21:59.564 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:21:59.565 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:21:59.565 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 21:22:02.780 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 21:26:42.874 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:26:42.875 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:26:42.876 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 21:26:46.028 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 21:27:03.171 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:27:03.172 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:27:03.172 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 21:27:06.254 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 21:27:09.565 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-10-15 21:28:56.465 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:28:56.466 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:28:56.467 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 21:28:59.662 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 21:29:02.982 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, diarahkan ke homepage
+2025-10-15 21:31:22.757 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:31:22.759 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:31:22.759 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 21:32:17.106 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:32:17.108 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:32:17.108 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 21:39:01.904 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:39:01.906 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:39:01.906 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 21:43:16.722 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:43:16.723 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:43:16.723 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 21:48:57.596 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:48:57.597 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:48:57.597 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 21:49:13.707 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:49:13.709 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:49:13.709 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 21:49:16.772 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 21:49:20.111 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, diarahkan ke homepage
+2025-10-15 21:58:22.492 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:58:22.493 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:58:22.493 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 21:58:44.147 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:58:44.149 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 21:58:44.149 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:08:43.931 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:08:43.932 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:08:43.932 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:09:03.189 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:09:03.193 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:09:03.194 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:11:41.027 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:11:41.028 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:11:41.028 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:13:25.958 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:13:25.959 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:13:25.959 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:13:41.216 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:13:41.218 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:13:41.218 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:13:52.618 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:13:52.620 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:13:52.620 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:14:36.573 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:14:36.575 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:14:36.575 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:14:46.448 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:14:46.450 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:14:46.450 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:18:18.979 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:18:18.980 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:18:18.980 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:19:39.262 [main] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:19:39.263 [main] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:19:39.263 [main] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:19:42.547 [main] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 22:19:45.923 [main] INFO  dibimbing.pages.LoginPage - Login berhasil, diarahkan ke homepage
+2025-10-15 22:20:21.311 [main] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:20:21.312 [main] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:20:21.312 [main] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:20:24.613 [main] INFO  dibimbing.pages.LoginPage - Logging in with email: sdfgdsg@gmail.com
+2025-10-15 22:20:26.372 [main] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:20:26.375 [main] INFO  dibimbing.pages.LoginPage - Logging in with email: dfgdsgdgd@gmail.com
+2025-10-15 22:20:26.501 [main] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:20:26.503 [main] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 22:20:26.630 [main] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:20:59.019 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:20:59.020 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:20:59.020 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:21:02.420 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: sdfgdsg@gmail.com
+2025-10-15 22:21:04.179 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:21:04.183 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: dfgdsgdgd@gmail.com
+2025-10-15 22:21:04.299 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:21:04.301 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 22:21:04.425 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:24:03.210 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:24:03.212 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:24:03.212 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:24:06.951 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data1@gmail.com
+2025-10-15 22:24:08.733 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:24:08.737 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data2@gmail.com
+2025-10-15 22:24:08.855 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:24:08.857 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 22:24:08.971 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:24:25.136 [main] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:24:25.137 [main] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:24:25.137 [main] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:24:28.443 [main] INFO  dibimbing.pages.LoginPage - Logging in with email: data1@gmail.com
+2025-10-15 22:24:29.703 [main] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:24:29.706 [main] INFO  dibimbing.pages.LoginPage - Logging in with email: data2@gmail.com
+2025-10-15 22:24:29.820 [main] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:24:29.823 [main] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 22:24:29.942 [main] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:25:33.742 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:25:33.743 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:25:33.743 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:25:37.005 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 22:25:40.307 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, diarahkan ke homepage
+2025-10-15 22:28:32.572 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:28:32.573 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:28:32.573 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:28:36.033 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data1@gmail.com
+2025-10-15 22:28:37.791 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:28:40.568 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data2@gmail.com
+2025-10-15 22:28:42.308 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:28:44.893 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 22:28:48.186 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, diarahkan ke homepage
+2025-10-15 22:54:03.227 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:54:03.229 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:54:03.229 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:54:06.043 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data1@gmail.com
+2025-10-15 22:54:09.043 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:54:11.837 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data2@gmail.com
+2025-10-15 22:54:13.595 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:54:16.221 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 22:54:16.418 [Test worker] ERROR dibimbing.pages.LoginPage - Login gagal: user tidak diarahkan ke homepage
+2025-10-15 22:54:16.418 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-10-15 22:55:03.003 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:55:03.004 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 22:55:03.004 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 22:55:05.145 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data1@gmail.com
+2025-10-15 22:55:08.096 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:55:10.896 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data2@gmail.com
+2025-10-15 22:55:12.689 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 22:55:15.616 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 22:55:15.808 [Test worker] ERROR dibimbing.pages.LoginPage - Login gagal: user tidak diarahkan ke homepage
+2025-10-15 22:55:15.808 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testLogin
+2025-10-15 23:01:14.096 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:01:14.097 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:01:14.098 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:01:17.999 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data1@gmail.com
+2025-10-15 23:01:19.784 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 23:01:22.476 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data2@gmail.com
+2025-10-15 23:01:24.223 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 23:01:26.845 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 23:01:29.140 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-15 23:04:02.199 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:04:02.200 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:04:02.200 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:04:04.534 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data1@gmail.com
+2025-10-15 23:04:07.636 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 23:04:10.122 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data2@gmail.com
+2025-10-15 23:04:11.883 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 23:04:14.496 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 23:04:16.789 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-15 23:04:19.432 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Pass2891
+2025-10-15 23:04:19.441 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testRegisterRandomUser
+2025-10-15 23:07:33.113 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:07:33.115 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:07:33.115 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:07:36.565 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data1@gmail.com
+2025-10-15 23:07:38.317 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 23:07:40.858 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data2@gmail.com
+2025-10-15 23:07:42.615 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 23:07:45.069 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 23:07:47.335 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-15 23:07:51.221 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Pass2818
+2025-10-15 23:07:56.581 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testRegisterRandomUser
+2025-10-15 23:08:48.932 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:08:48.933 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:08:48.933 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:08:52.188 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data1@gmail.com
+2025-10-15 23:08:53.961 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 23:08:56.847 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data2@gmail.com
+2025-10-15 23:08:58.605 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-15 23:09:01.078 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-15 23:09:03.358 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-15 23:09:07.284 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Pass9357
+2025-10-15 23:09:12.640 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testRegisterRandomUser
+2025-10-15 23:20:30.064 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:20:30.065 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:20:30.065 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:20:35.141 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Pass3104
+2025-10-15 23:20:40.535 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testRegisterRandomUser
+2025-10-15 23:21:09.258 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:21:09.260 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:21:09.260 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:21:13.793 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Pass3978
+2025-10-15 23:21:14.518 [Test worker] INFO  dibimbing.pages.RegisterPage - Register gagal, toast tampil
+2025-10-15 23:23:09.778 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:23:09.780 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:23:09.780 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:23:14.427 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: user0bf2dc41@mail.com
+2025-10-15 23:23:19.829 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testRegisterRandomUser
+2025-10-15 23:24:00.066 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:24:00.068 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:24:00.068 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:24:04.755 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: user59b8becc@mail.com
+2025-10-15 23:24:08.082 [Test worker] INFO  dibimbing.pages.RegisterPage - Register berhasil, toast muncul
+2025-10-15 23:24:12.316 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Name8328
+2025-10-15 23:24:13.038 [Test worker] INFO  dibimbing.pages.RegisterPage - Register gagal, toast tampil
+2025-10-15 23:29:32.792 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:29:32.793 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:29:32.793 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:29:37.439 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: userc154c77d@mail.com
+2025-10-15 23:29:40.767 [Test worker] INFO  dibimbing.pages.RegisterPage - Register berhasil, toast muncul
+2025-10-15 23:29:44.685 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Name5985
+2025-10-15 23:29:45.408 [Test worker] INFO  dibimbing.pages.RegisterPage - Register gagal, toast tampil
+2025-10-15 23:30:08.323 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:30:08.325 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:30:08.325 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:30:13.044 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: usere00ad34c@mail.com
+2025-10-15 23:30:16.363 [Test worker] INFO  dibimbing.pages.RegisterPage - Register berhasil, toast muncul
+2025-10-15 23:30:20.625 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Name1854
+2025-10-15 23:30:21.345 [Test worker] INFO  dibimbing.pages.RegisterPage - Register gagal, toast tampil
+2025-10-15 23:30:25.575 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: tunjungsihselvia@gmail.com
+2025-10-15 23:30:30.936 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testRegisterUserAlreadyExisted
+2025-10-15 23:31:44.471 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:31:44.473 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:31:44.473 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:32:47.771 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:32:47.773 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:32:47.773 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:32:52.293 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: userd0487193@mail.com
+2025-10-15 23:32:55.623 [Test worker] INFO  dibimbing.pages.RegisterPage - Register berhasil, toast muncul
+2025-10-15 23:32:59.551 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Name6759
+2025-10-15 23:33:00.267 [Test worker] INFO  dibimbing.pages.RegisterPage - Register gagal, toast tampil
+2025-10-15 23:33:04.224 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: tunjungsihselvia@gmail.com
+2025-10-15 23:33:09.582 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testRegisterUserAlreadyExisted
+2025-10-15 23:33:17.555 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:17.556 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:17.556 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:33:21.843 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:21.844 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:21.844 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:33:26.095 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:26.096 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:26.096 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:33:30.310 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:30.311 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:30.311 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:33:34.528 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:34.529 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:34.529 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:33:38.977 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:38.978 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:38.978 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:33:43.228 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:43.229 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:43.229 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:33:49.152 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:49.154 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:49.154 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:33:53.378 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:53.379 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:53.379 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:33:57.598 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:57.599 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:33:57.599 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:34:01.816 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:34:01.817 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:34:01.817 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:34:06.015 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:34:06.016 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:34:06.016 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:34:10.241 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:34:10.242 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:34:10.242 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:34:55.812 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:34:55.813 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-15 23:34:55.813 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-15 23:35:00.251 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: user8f2263c5@mail.com
+2025-10-15 23:35:03.571 [Test worker] INFO  dibimbing.pages.RegisterPage - Register berhasil, toast muncul
+2025-10-15 23:35:07.563 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Name7600
+2025-10-15 23:35:08.290 [Test worker] INFO  dibimbing.pages.RegisterPage - Register gagal, toast tampil
+2025-10-15 23:35:12.606 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: tunjungsihselvia@gmail.com
+2025-10-15 23:35:17.967 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testRegisterUserAlreadyExists
