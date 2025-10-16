@@ -2,18 +2,11 @@ package dibimbing.tests;
 
 import dibimbing.core.BaseTest;
 import dibimbing.core.DriverManager;
-import dibimbing.core.TestUtils;
-import dibimbing.pages.LoginPage;
-import dibimbing.pages.ProductPage;
 import dibimbing.pages.RegisterPage;
-import org.openqa.selenium.WebDriver;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import java.util.Random;
 import java.util.UUID;
-import java.util.UUID;
-import java.util.Random;
 public class RegisterTest extends BaseTest {
 
     public class DataGenerator {
@@ -27,8 +20,9 @@ public class RegisterTest extends BaseTest {
         }
     }
 
-    @Test(groups = {"regression", "positive"})
-    public void testRegisterRandomUser() {
+    @Test(description = "TC017: Verifikasi register berhasil dengan email baru",
+            groups = {"regression", "positive"})
+    public void TC017_testRegisterRandomUser() {
         String email = DataGenerator.randomEmail();
         String name = DataGenerator.randomName();
 
@@ -38,8 +32,9 @@ public class RegisterTest extends BaseTest {
         registerPage.assertRegisterSuccess();
     }
 
-    @Test(groups = {"regression", "negative"})
-    public void testRegisterRandomUserFailed() {
+    @Test(description = "TC022: Verifikasi register gagal dengan email dan nama yang tidak valid",
+            groups = {"regression", "negative"})
+    public void TC022_testRegisterRandomUserFailed() {
         String email = DataGenerator.randomEmail();
         String name = DataGenerator.randomName();
 
@@ -49,8 +44,9 @@ public class RegisterTest extends BaseTest {
         registerPage.assertRegisterFailed();
     }
 
-    @Test(groups = {"regression", "negative"})
-    public void testRegisterUserAlreadyExists() {
+    @Test(description = "TC023: Verifikasi register gagal dengan email yang sudah terdaftar",
+            groups = {"regression", "negative"})
+    public void TC023_testRegisterUserAlreadyExists() {
         String email = config.getProperty("test.email");
         String name = config.getProperty("test.name");
 
@@ -58,6 +54,8 @@ public class RegisterTest extends BaseTest {
         registerPage.register(name, email);
 
         registerPage.assertRegisterUserAlreadyExisted();
+
+
     }
 }
 

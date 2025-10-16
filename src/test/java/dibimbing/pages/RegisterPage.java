@@ -72,11 +72,23 @@ public class RegisterPage extends BasePage{
     }
 
     public void assertRegisterUserAlreadyExisted() {
-        WebElement toast = new WebDriverWait(driver, Duration.ofSeconds(5))
-                .until(ExpectedConditions.visibilityOfElementLocated(
-                        By.xpath("//div[@data-status='error' and contains(text(),'Exists')]")
-                ));
-        Assert.assertTrue(toast.isDisplayed(), "Toast 'Registration Failed' muncul");
-        log.info("Register gagal, toast tampil User Already Exists");
+//        WebElement toast = new WebDriverWait(driver, Duration.ofSeconds(5))
+//                .until(ExpectedConditions.visibilityOfElementLocated(
+//                        By.xpath("//div[@data-status='error' and contains(text(),'Exists')]")
+//                ));
+//        Assert.assertTrue(toast.isDisplayed(), "Toast 'Registration Failed' muncul");
+//        log.info("Register gagal, toast tampil User Already Exists");
+
+        try {
+            WebElement toast = new WebDriverWait(driver, Duration.ofSeconds(5))
+                    .until(ExpectedConditions.visibilityOfElementLocated(
+                            By.xpath("//div[@data-status='error' and contains(text(),'Exists')]")
+                    ));
+            Assert.assertTrue(toast.isDisplayed(), "Toast 'Registration Failed' muncul");
+            log.info("Register gagal, toast tampil User Already Exists");
+        } catch (Exception e) {
+            log.error("Register menggunakan email terpakai masih lolos");
+            Assert.fail("Register berhasil, harusnya gagal");
+        }
     }
 }

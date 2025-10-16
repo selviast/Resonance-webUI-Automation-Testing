@@ -395,3 +395,468 @@
 2025-10-15 23:35:08.290 [Test worker] INFO  dibimbing.pages.RegisterPage - Register gagal, toast tampil
 2025-10-15 23:35:12.606 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: tunjungsihselvia@gmail.com
 2025-10-15 23:35:17.967 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testRegisterUserAlreadyExists
+2025-10-16 08:53:33.252 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 08:53:33.254 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 08:53:33.255 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 08:53:41.685 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: user44263c94@mail.com
+2025-10-16 08:53:46.056 [Test worker] INFO  dibimbing.pages.RegisterPage - Register berhasil, toast muncul
+2025-10-16 08:53:48.050 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Name1097
+2025-10-16 08:53:48.771 [Test worker] INFO  dibimbing.pages.RegisterPage - Register gagal, toast tampil
+2025-10-16 08:53:50.702 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: tunjungsihselvia@gmail.com
+2025-10-16 08:53:56.069 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testRegisterUserAlreadyExists
+2025-10-16 09:05:11.259 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 09:05:11.262 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 09:05:11.262 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 09:05:15.096 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: user4cb1b22f@mail.com
+2025-10-16 09:05:18.414 [Test worker] INFO  dibimbing.pages.RegisterPage - Register berhasil, toast muncul
+2025-10-16 09:05:20.717 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Name5490
+2025-10-16 09:05:21.439 [Test worker] INFO  dibimbing.pages.RegisterPage - Register gagal, toast tampil
+2025-10-16 09:05:23.307 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: tunjungsihselvia@gmail.com
+2025-10-16 09:05:28.655 [Test worker] ERROR dibimbing.pages.RegisterPage - Register menggunakan email terpakai masih lolos
+2025-10-16 09:05:28.658 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: testRegisterUserAlreadyExists
+2025-10-16 09:14:56.217 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 09:14:56.220 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 09:14:56.220 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 09:14:58.637 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: user709bf0a1@mail.com
+2025-10-16 09:15:01.968 [Test worker] INFO  dibimbing.pages.RegisterPage - Register berhasil, toast muncul
+2025-10-16 09:15:04.244 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Name9483
+2025-10-16 09:15:04.970 [Test worker] INFO  dibimbing.pages.RegisterPage - Register gagal, toast tampil
+2025-10-16 09:15:07.002 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: tunjungsihselvia@gmail.com
+2025-10-16 09:15:12.380 [Test worker] ERROR dibimbing.pages.RegisterPage - Register menggunakan email terpakai masih lolos
+2025-10-16 09:15:12.383 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC_023testRegisterUserAlreadyExists
+2025-10-16 09:49:23.373 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 09:49:23.374 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 09:49:23.374 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 09:49:23.452 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC003_navigateToCreateTicketPage
+2025-10-16 09:53:23.803 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 09:53:23.805 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 09:53:23.805 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 09:53:26.643 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 09:53:28.469 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 09:53:28.812 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Click Button Create Ticket
+2025-10-16 09:53:28.834 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC003_navigateToCreateTicketPage
+2025-10-16 09:55:12.630 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 09:55:12.633 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 09:55:12.633 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 09:55:15.313 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 09:55:16.556 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 09:55:16.829 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Click Button Create Ticket
+2025-10-16 09:55:16.853 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 12:18:16.854 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 12:18:16.857 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 12:18:16.857 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 12:18:24.279 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 12:18:26.100 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 12:18:26.366 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 12:18:26.398 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 12:18:28.450 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 12:18:29.676 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 12:18:29.962 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 12:18:29.987 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 12:18:33.918 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, toast muncul
+2025-10-16 12:53:14.358 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 12:53:14.362 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 12:53:14.362 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 12:53:18.006 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 12:53:20.410 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 12:53:22.029 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 12:53:22.053 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 12:53:24.937 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 12:53:27.233 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 12:53:28.970 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 12:53:28.994 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 12:53:29.780 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC004_createTicketPublic
+2025-10-16 12:58:19.944 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 12:58:19.945 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 12:58:19.945 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 12:58:23.332 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 12:58:27.231 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 12:58:28.878 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 12:58:28.907 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 12:58:30.540 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 12:58:34.156 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 12:58:35.761 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 12:58:35.783 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 12:58:36.539 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: element not interactable
+  (Session info: chrome=141.0.7390.77)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a7c3d108fdd46d99461e5fd9386c89dd, sendKeysToElement {value=[Ljava.lang.CharSequence;@32a2a6be, id=f.C27EF9C567FF89A333206F8BEF4B6B90.d.2AB60A9FBB4E31FB01B39A6ECB7D4DDA.e.35}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52823}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:52823/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (a7c3d108fdd46d99461e5fd9386c89dd)] -> id: btn-upload-file]
+Session ID: a7c3d108fdd46d99461e5fd9386c89dd
+2025-10-16 12:58:36.574 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC004_createTicketPublic
+2025-10-16 13:03:03.692 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:03:03.694 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:03:03.694 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 13:03:07.334 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:03:09.607 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:03:11.219 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:03:11.244 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:03:14.096 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:03:16.370 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:03:18.132 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:03:18.156 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:03:18.927 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 13:03:24.096 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54893}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:54893/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c283b5814da09a2154b7af3a4d7f07f3
+2025-10-16 13:03:24.147 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC004_createTicketPublic
+2025-10-16 13:07:40.244 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:07:40.247 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:07:40.247 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 13:07:43.558 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:07:45.849 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:07:47.489 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:07:47.516 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:07:50.405 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:07:52.673 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:07:54.318 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:07:54.341 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:07:55.092 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 13:08:00.260 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56389}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56389/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 21df3a8c6508a26314363033c18d0412
+2025-10-16 13:08:00.285 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 10 detik, lanjut paksa ke submit.
+2025-10-16 13:08:00.328 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Public
+2025-10-16 13:08:00.330 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC004_createTicketPublic
+2025-10-16 13:11:36.501 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:11:36.503 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:11:36.503 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 13:11:40.093 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:11:42.392 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:11:43.935 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:11:43.961 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:11:46.590 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:11:48.850 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:11:50.586 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:11:50.610 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:11:51.360 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 13:11:56.535 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57625}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57625/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac936245207c8897e3657fd78cbea37a
+2025-10-16 13:11:56.560 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 10 detik, lanjut paksa ke submit.
+2025-10-16 13:11:56.604 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Public
+2025-10-16 13:12:00.286 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, toast muncul
+2025-10-16 13:17:20.956 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:17:20.958 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:17:20.958 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 13:17:24.997 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:17:27.285 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:17:28.874 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:17:28.898 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:17:31.472 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:17:33.752 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:17:35.397 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:17:35.422 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:17:36.179 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 13:17:41.372 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59299}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59299/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6981314a77c43e326bc242b830ebf894
+2025-10-16 13:17:41.397 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 20 detik, lanjut paksa ke submit.
+2025-10-16 13:17:41.438 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Public
+2025-10-16 13:17:44.595 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, toast muncul
+2025-10-16 13:18:46.096 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:18:46.097 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:18:46.098 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 13:18:49.456 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:18:51.737 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:18:53.306 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:18:53.330 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:18:56.010 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:18:58.281 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:18:59.935 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:18:59.957 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:19:00.713 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 13:19:05.900 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59754}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59754/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e37a9654e5c7fd8f23e93d81f68889ba
+2025-10-16 13:19:05.924 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 10 detik, lanjut paksa ke submit.
+2025-10-16 13:19:05.966 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Public
+2025-10-16 13:19:09.122 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, toast muncul
+2025-10-16 13:33:06.418 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:33:06.419 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:33:06.419 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 13:33:10.468 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:33:12.836 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:33:14.410 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:33:14.435 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:33:17.149 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:33:19.422 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:33:21.059 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:33:21.090 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:33:21.851 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 13:33:27.016 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64603}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64603/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b3d2d8e0c4b54015aa22b6d261538b37
+2025-10-16 13:33:27.030 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 10 detik, lanjut paksa ke submit.
+2025-10-16 13:33:27.062 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Public
+2025-10-16 13:33:27.063 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC004_createTicketPublic
+2025-10-16 13:41:00.843 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:41:00.844 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 13:41:00.844 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 13:41:03.934 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:41:06.752 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:41:09.606 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data1@gmail.com
+2025-10-16 13:41:11.337 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-16 13:41:13.815 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data2@gmail.com
+2025-10-16 13:41:15.588 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-16 13:41:20.245 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: user29f172b1@mail.com
+2025-10-16 13:41:23.559 [Test worker] INFO  dibimbing.pages.RegisterPage - Register berhasil, toast muncul
+2025-10-16 13:41:27.475 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Name2085
+2025-10-16 13:41:28.190 [Test worker] INFO  dibimbing.pages.RegisterPage - Register gagal, toast tampil
+2025-10-16 13:41:32.209 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: tunjungsihselvia@gmail.com
+2025-10-16 13:41:37.565 [Test worker] ERROR dibimbing.pages.RegisterPage - Register menggunakan email terpakai masih lolos
+2025-10-16 13:41:37.566 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC023_testRegisterUserAlreadyExists
+2025-10-16 13:41:40.904 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:41:43.698 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:41:45.155 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:41:45.179 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:41:47.728 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 13:41:50.014 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 13:41:51.751 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 13:41:51.775 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 13:41:52.522 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 13:41:57.689 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50480}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50480/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 17c98c6a55d34b832d49c389ac417b7d
+2025-10-16 13:41:57.713 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 10 detik, lanjut paksa ke submit.
+2025-10-16 13:41:57.754 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Public
+2025-10-16 13:41:57.755 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC004_createTicketPublic
+2025-10-16 14:10:37.903 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 14:10:37.905 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 14:10:37.905 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 14:10:41.572 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 14:10:43.905 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 14:10:45.553 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 14:10:45.577 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 14:10:48.109 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 14:10:50.899 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 14:10:56.017 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC004_createTicketPublic
+2025-10-16 14:10:58.848 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 14:11:01.651 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 14:11:03.067 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 14:11:03.090 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 14:11:03.832 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 14:11:08.999 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55858}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55858/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dd4f7efaba8b02ef456f5dccacfecca8
+2025-10-16 14:11:09.026 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 10 detik, lanjut paksa ke submit.
+2025-10-16 14:11:09.071 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Private
+2025-10-16 14:11:09.108 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik Submit Tiket
+2025-10-16 14:11:12.241 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, toast muncul
+2025-10-16 14:14:18.792 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 14:14:18.793 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 14:14:18.793 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 14:14:22.472 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 14:14:24.769 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 14:14:26.465 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 14:14:26.492 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 14:14:27.882 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 14:14:31.452 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 14:14:36.578 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC004_createTicketPublic
+2025-10-16 14:15:27.585 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 14:15:27.586 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 14:15:27.587 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 14:15:30.870 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 14:15:33.678 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 14:15:35.004 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 14:15:35.029 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 14:15:37.528 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 14:15:39.815 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 14:15:41.494 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 14:15:41.516 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 14:15:42.253 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 14:15:47.435 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57085}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57085/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a7dcaad85c16b670995033042160293f
+2025-10-16 14:15:47.460 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 10 detik, lanjut paksa ke submit.
+2025-10-16 14:15:47.502 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Public
+2025-10-16 14:15:47.537 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik Submit Tiket
+2025-10-16 14:15:50.652 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, toast muncul
+2025-10-16 14:25:46.556 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 14:25:46.557 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 14:25:46.557 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 14:25:50.250 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 14:25:53.062 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 14:25:55.935 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data1@gmail.com
+2025-10-16 14:25:57.685 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-16 14:26:00.245 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: data2@gmail.com
+2025-10-16 14:26:01.989 [Test worker] INFO  dibimbing.pages.LoginPage - Login gagal, pesan error tampil
+2025-10-16 14:26:05.931 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: userdc2bc1f0@mail.com
+2025-10-16 14:26:09.241 [Test worker] INFO  dibimbing.pages.RegisterPage - Register berhasil, toast muncul
+2025-10-16 14:26:13.517 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: Name8041
+2025-10-16 14:26:14.240 [Test worker] INFO  dibimbing.pages.RegisterPage - Register gagal, toast tampil
+2025-10-16 14:26:18.255 [Test worker] INFO  dibimbing.pages.RegisterPage - Registering email: tunjungsihselvia@gmail.com
+2025-10-16 14:26:23.653 [Test worker] ERROR dibimbing.pages.RegisterPage - Register menggunakan email terpakai masih lolos
+2025-10-16 14:26:23.657 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC023_testRegisterUserAlreadyExists
+2025-10-16 14:26:26.550 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 14:26:29.396 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 14:26:30.762 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 14:26:30.783 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 14:26:33.281 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 14:26:36.068 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 14:26:41.185 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC004_createTicketPublic
+2025-10-16 14:26:44.087 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 14:26:46.888 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 14:26:48.276 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 14:26:48.301 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 14:26:49.044 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 14:26:54.209 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59550}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59550/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 21004fbb8dba8e0267f6d2136730236a
+2025-10-16 14:26:54.235 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 10 detik, lanjut paksa ke submit.
+2025-10-16 14:26:54.282 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Private
+2025-10-16 14:26:54.317 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik Submit Tiket
+2025-10-16 14:26:57.442 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, toast muncul
+2025-10-16 14:39:01.922 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 14:39:01.924 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 14:39:01.924 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 14:39:04.361 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 14:39:08.830 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 14:39:10.207 [Test worker] INFO  dibimbing.pages.LoginPage - Click Button Create Ticket
+2025-10-16 14:39:10.232 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 14:39:10.987 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 14:39:16.154 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62605}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:62605/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cfabecd7e7f52be269caa2dc542f3e92
+2025-10-16 14:39:16.178 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 10 detik, lanjut paksa ke submit.
+2025-10-16 14:39:16.225 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Private
+2025-10-16 14:39:16.260 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik Submit Tiket
+2025-10-16 14:39:19.915 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, toast muncul
+2025-10-16 14:39:23.559 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, judul Test_Issue_1760600344361
+2025-10-16 14:58:59.926 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 14:58:59.927 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 14:58:59.927 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 14:59:03.683 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 14:59:06.008 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 14:59:07.701 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Click Button Create Ticket
+2025-10-16 14:59:07.727 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 14:59:08.479 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 14:59:13.663 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51073}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51073/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dcc1b42339a4ad6cd96328623737434b
+2025-10-16 14:59:13.688 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 10 detik, lanjut paksa ke submit.
+2025-10-16 14:59:13.732 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Private
+2025-10-16 14:59:13.767 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik Submit Tiket
+2025-10-16 14:59:17.426 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, toast muncul
+2025-10-16 14:59:19.520 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Navigate to halaman detail tiket, judul Test_Issue_1760601543682
+2025-10-16 14:59:19.534 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC005_createTicketPrivate
+2025-10-16 15:04:02.671 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 15:04:02.672 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 15:04:02.672 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 15:04:06.126 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 15:04:08.951 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 15:04:10.383 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Click Button Create Ticket
+2025-10-16 15:04:10.408 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 15:04:11.153 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 15:04:16.338 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52327}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:52327/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d69e10fb779c6304884add9e30d28cd9
+2025-10-16 15:04:16.361 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 10 detik, lanjut paksa ke submit.
+2025-10-16 15:04:16.408 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Private
+2025-10-16 15:04:16.443 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik Submit Tiket
+2025-10-16 15:04:19.576 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, toast muncul
+2025-10-16 15:04:21.145 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Navigate to halaman detail tiket, judul Test_Issue_1760601846126
+2025-10-16 15:04:21.156 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC005_createTicketPrivate
+2025-10-16 23:06:34.148 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 23:06:34.149 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 23:06:34.150 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 23:06:38.777 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 23:06:40.065 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 23:06:40.763 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Click Button Create Ticket
+2025-10-16 23:06:40.789 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 23:06:41.550 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 23:06:46.696 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49559}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49559/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 64cdd01f88871c7e79109929cfb690cb
+2025-10-16 23:06:46.716 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 10 detik, lanjut paksa ke submit.
+2025-10-16 23:06:46.759 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Private
+2025-10-16 23:06:46.796 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik Submit Tiket
+2025-10-16 23:06:50.415 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, toast muncul
+2025-10-16 23:06:50.956 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Navigate to halaman detail tiket, judul Test_Issue_1760630798776
+2025-10-16 23:06:50.978 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC005_createTicketPrivate
+2025-10-16 23:09:07.231 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 23:09:07.232 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 23:09:07.232 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 23:09:09.789 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 23:09:11.044 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 23:09:11.323 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Click Button Create Ticket
+2025-10-16 23:09:11.347 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 23:09:12.105 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 23:09:17.299 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49898}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49898/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9cf4ea90feddb48b7298212247f615e6
+2025-10-16 23:09:17.322 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Toast error upload masih muncul setelah 10 detik, lanjut paksa ke submit.
+2025-10-16 23:09:17.368 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Private
+2025-10-16 23:09:17.403 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik Submit Tiket
+2025-10-16 23:09:20.504 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, toast muncul
+2025-10-16 23:09:21.041 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Navigate to halaman detail tiket, judul Test_Issue_1760630949788
+2025-10-16 23:09:21.638 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Dashboard title '[[ChromeDriver: chrome on mac (9cf4ea90feddb48b7298212247f615e6)] -> xpath: //p[@class='chakra-text css-oqyjp1' and contains(text(),'Active Issue')]]' tampil di halaman
+2025-10-16 23:09:31.967 [Test worker] WARN  dibimbing.pages.CreateTicketPage - Ticket tidak ditemukan di dashboard: Test_Issue_1760630949788
+2025-10-16 23:09:31.979 [Test worker] INFO  dibimbing.core.TestListener - Test Error name: TC005_createTicketPrivate
+2025-10-16 23:17:33.773 [Test worker] INFO  dibimbing.core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 23:17:33.775 [Test worker] INFO  dibimbing.core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/config/production.properties
+2025-10-16 23:17:33.775 [Test worker] INFO  dibimbing.core.BaseTest - Loaded config env: production
+2025-10-16 23:17:36.582 [Test worker] INFO  dibimbing.pages.LoginPage - Logging in with email: tunjungsihselvia@gmail.com
+2025-10-16 23:17:37.871 [Test worker] INFO  dibimbing.pages.LoginPage - Login berhasil, dashboard tampil
+2025-10-16 23:17:38.103 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Click Button Create Ticket
+2025-10-16 23:17:38.132 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Halaman Create Ticket berhasil diakses
+2025-10-16 23:17:38.880 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Berhasil upload file: /Users/selvia/Documents/Dibimbing QA Engineer/Resonance-AutomationTesting/src/test/resources/testdata/sample-image.jpg
+2025-10-16 23:17:44.079 [Test worker] ERROR dibimbing.pages.CreateTicketPage - Gagal upload file: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'sample-image.jpg')] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.77, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: /var/folders/s7/dzj20_1s1wg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52041}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:52041/devtoo..., se:cdpVersion: 141.0.7390.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 11ec917e016a4a307956c531d0168705
+2025-10-16 23:17:44.095 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Tidak ada toast error upload (atau sudah hilang), lanjut submit.
+2025-10-16 23:17:44.144 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik checkbox Private
+2025-10-16 23:17:44.179 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Klik Submit Tiket
+2025-10-16 23:17:47.290 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Create ticket berhasil, toast muncul
+2025-10-16 23:17:47.828 [Test worker] INFO  dibimbing.pages.CreateTicketPage - Navigate to halaman detail tiket, judul Test_Issue_1760631456581
