@@ -1,9 +1,6 @@
 # Resonance-Automation-Testing
-Final Project: Web UI &amp; API Automation Testing for Resonance Web Using Selenium &amp; Rest Assured.
-
+Final Project: Web UI for Resonance Web Using Selenium.
 Web Resonance: https://resonance.dibimbing.id/
-
-API Resonance: https://resonance.dibimbing.id/docs
 
 - Requirement: 
 - Test Plan: https://docs.google.com/document/d/17kEIEMcX_NhIoT82cTYYgBgH_v56qihTDvxWYzxYTtE/edit?usp=sharing 
