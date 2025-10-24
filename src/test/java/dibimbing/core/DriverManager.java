@@ -15,8 +15,8 @@ public class DriverManager {
             case "chrome" -> {
                 WebDriverManager.chromedriver().setup();
 
-                String githubActions = System.getenv("GITHUB_ACTIONS");
-                if (githubActions != null && githubActions.equals("true")) {
+//                String githubActions = System.getenv("GITHUB_ACTIONS");
+//                if (githubActions != null && githubActions.equals("true")) {
                     ChromeOptions options = new ChromeOptions();
                     options.addArguments("--headless");
                     options.addArguments("--disable-gpu");
@@ -24,9 +24,9 @@ public class DriverManager {
                     options.addArguments("--no-sandbox"); // Often required in CI/CD environments
                     options.addArguments("--disable-dev-shm-usage"); // Recommended for Docker environments
                     webDriver = new ChromeDriver(options);
-                } else {
-                    webDriver = new ChromeDriver();
-                }
+//                } else {
+//                    webDriver = new ChromeDriver();
+//                }
             }
             case "firefox" -> {
                 WebDriverManager.firefoxdriver().setup();

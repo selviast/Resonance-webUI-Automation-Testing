@@ -25,7 +25,6 @@ public class LoginTest extends BaseTest {
 
     @Test(description = "TC001: Verifikasi login berhasil dengan email dan password valid",
             groups = {"regression", "test-log"})
-
     public void TC001_testLogin() {
         LoginPage loginPage = new LoginPage(DriverManager.getDriver());
         loginPage.login(config.getProperty("test.email"), config.getProperty("test.password"));

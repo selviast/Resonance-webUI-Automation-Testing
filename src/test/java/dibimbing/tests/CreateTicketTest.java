@@ -11,8 +11,7 @@ import org.testng.asserts.SoftAssert;
 
 public class CreateTicketTest extends BaseTest {
     @Test(description = "TC003: Verifikasi berhasil akses Create Ticket Page",
-            groups = {"test-log"})
-
+            groups = {"regression", "test-log"})
     public void TC003_navigateToCreateTicketPage() {
         LoginPage loginPage = new LoginPage(DriverManager.getDriver());
         CreateTicketPage createTicketPage = new CreateTicketPage(DriverManager.getDriver());
@@ -25,7 +24,7 @@ public class CreateTicketTest extends BaseTest {
     }
 
     @Test(description = "TC004: Verifikasi berhasil Create Ticket Page Public",
-            groups = {"test-log"})
+            groups = {"regression", "test-log"})
     public void TC004_createTicketPublic() {
 
         SoftAssert softAssert = new SoftAssert();
@@ -52,7 +51,6 @@ public class CreateTicketTest extends BaseTest {
     @Test(description = "TC005: Verifikasi berhasil Create Ticket Page Private",
             groups = {"regression", "test-log"})
     public void TC005_createTicketPrivate() {
-
         SoftAssert softAssert = new SoftAssert();
 
         LoginPage loginPage = new LoginPage(DriverManager.getDriver());

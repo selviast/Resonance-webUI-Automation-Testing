@@ -10,8 +10,8 @@
             </run>
         </groups>
         <classes>
-<!--            <class name="dibimbing.tests.LoginTest"/>-->
-<!--            <class name="dibimbing.tests.RegisterTest"/>-->
+            <class name="dibimbing.tests.LoginTest"/>
+            <class name="dibimbing.tests.RegisterTest"/>
             <class name="dibimbing.tests.CreateTicketTest"/>
         </classes>
     </test>
