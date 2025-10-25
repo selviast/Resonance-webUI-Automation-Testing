@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="RegressionCrossBrowser" parallel="tests" thread-count="2">
+    <test name="chromeTests">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="dibimbing.tests.LoginTest"/>
+            <class name="dibimbing.tests.RegisterTest"/>
+            <class name="dibimbing.tests.CreateTicketTest"/>
+        </classes>
+    </test>
+    <test name="firefoxTests">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="dibimbing.tests.LoginTest"/>
+            <class name="dibimbing.tests.RegisterTest"/>
+            <class name="dibimbing.tests.CreateTicketTest"/>
+        </classes>
+    </test>
+</suite>

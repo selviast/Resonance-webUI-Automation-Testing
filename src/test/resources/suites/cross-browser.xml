@@ -1,0 +1,19 @@
+<suite name="CrossBrowserSuite">
+    <test name="ChromeTest">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="dibimbing.tests.LoginTest"/>
+            <class name="dibimbing.tests.RegisterTest"/>
+            <class name="dibimbing.tests.CreateTicketTest"/>
+        </classes>
+    </test>
+
+    <test name="FirefoxTest">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="dibimbing.tests.LoginTest"/>
+            <class name="dibimbing.tests.RegisterTest"/>
+            <class name="dibimbing.tests.CreateTicketTest"/>
+        </classes>
+    </test>
+</suite>
