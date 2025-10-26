@@ -8,8 +8,11 @@ Web Resonance: https://resonance.dibimbing.id/
 
 # RUN PROJECT 
 - macOS:
+  
 ./gradlew clean test 
+
 ./gradlew clean test -Psuite=regression.xml
+
 ./gradlew clean test -Psuite=cross-browser.xml
 
 
