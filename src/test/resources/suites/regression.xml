@@ -1,9 +1,11 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="SmokeTestSuite" verbose="1">
+<suite name="Regression" verbose="1">
     <listeners>
         <listener class-name="dibimbing.core.TestListener"/>
     </listeners>
     <test name="LoginTests">
+<!--        <parameter name="browser" value="chrome"/>-->
+
         <groups>
             <run>
                 <include name="regression"/>
@@ -13,6 +15,7 @@
             <class name="dibimbing.tests.LoginTest"/>
             <class name="dibimbing.tests.RegisterTest"/>
             <class name="dibimbing.tests.CreateTicketTest"/>
+            <class name="dibimbing.tests.DashboardTest"></class>
         </classes>
     </test>
 </suite>

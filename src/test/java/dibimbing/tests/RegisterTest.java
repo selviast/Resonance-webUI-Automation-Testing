@@ -22,7 +22,7 @@ public class RegisterTest extends BaseTest {
 
     @Test(description = "TC017: Verifikasi register berhasil dengan email baru",
             groups = {"regression", "positive"})
-    public void TC017_testRegisterRandomUser() {
+    public void tc017_testRegisterRandomUser() {
         String email = DataGenerator.randomEmail();
         String name = DataGenerator.randomName();
 
@@ -34,7 +34,7 @@ public class RegisterTest extends BaseTest {
 
     @Test(description = "TC022: Verifikasi register gagal dengan email dan nama yang tidak valid",
             groups = {"regression", "negative"})
-    public void TC022_testRegisterRandomUserFailed() {
+    public void tc022_testRegisterRandomUserFailed() {
         String email = DataGenerator.randomEmail();
         String name = DataGenerator.randomName();
 
@@ -46,7 +46,7 @@ public class RegisterTest extends BaseTest {
 
     @Test(description = "TC023: Verifikasi register gagal dengan email yang sudah terdaftar",
             groups = {"regression", "negative"})
-    public void TC023_testRegisterUserAlreadyExists() {
+    public void tc023_testRegisterUserAlreadyExists() {
         String email = config.getProperty("test.email");
         String name = config.getProperty("test.name");
 

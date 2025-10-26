@@ -61,14 +61,10 @@ public class CreateTicketPage extends BasePage{
         log.info("Halaman Create Ticket berhasil diakses");
     }
 
-    String titleTicket = "Test_Issue_" + System.currentTimeMillis();
+    String titleTicket = "Test_Issue_Selvia_" + System.currentTimeMillis();
 
     public void setTitleCreateTicket(){
         inputTicketTitle.sendKeys(titleTicket);
-    }
-
-    public String getCreatedTicketTitle() {
-        return titleTicket;
     }
 
     public void setInputTicketDescription(){
@@ -79,8 +75,7 @@ public class CreateTicketPage extends BasePage{
 
     public void setUploadFileInput() {
         SoftAssert softAssert = new SoftAssert();
-        // Lokasi file gambar (pastikan ada di project folder kamu)
-
+        // lokasi
         String filePath = System.getProperty("user.dir") + "/src/test/resources/testdata/sample-image.jpg";
 
         try {
@@ -124,6 +119,9 @@ public class CreateTicketPage extends BasePage{
         log.info("Klik Submit Tiket");
     }
 
+    public String getCreatedTicketTitle() {
+        return titleTicket;
+    }
     public void navigateToDashboardButton(){
         backToDashboardButton.click();
     }

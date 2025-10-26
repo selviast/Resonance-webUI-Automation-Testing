@@ -16,7 +16,7 @@ public class LoginTest extends BaseTest {
 
     @Test(description = "TC002: Verifikasi login berhasil dengan email dan password yang salah",
             groups = {"regression", "negative", "test-log"}, dataProvider = "wrongLoginData")
-    public void TC002_testFailedLogin(String email, String password) {
+    public void tc002_testFailedLogin(String email, String password) {
         LoginPage loginPage = new LoginPage(DriverManager.getDriver());
 
         loginPage.login(email, password);
@@ -25,7 +25,7 @@ public class LoginTest extends BaseTest {
 
     @Test(description = "TC001: Verifikasi login berhasil dengan email dan password valid",
             groups = {"regression", "test-log"})
-    public void TC001_testLogin() {
+    public void tc001_testLogin() {
         LoginPage loginPage = new LoginPage(DriverManager.getDriver());
         loginPage.login(config.getProperty("test.email"), config.getProperty("test.password"));
         loginPage.assertLoginSuccess();
