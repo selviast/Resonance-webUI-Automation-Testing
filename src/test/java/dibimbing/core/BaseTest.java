@@ -13,12 +13,6 @@ public class BaseTest {
 
     @BeforeSuite(alwaysRun = true)
     public void loadConfig() {
-//        String env = System.getProperty("env"); // -Penv=production
-////        env = (env == null || env.isEmpty()) ? "staging" : env;
-//        config = ConfigReader.loadProperties(env);
-//
-//        log.info("Loaded config env: {}", env);
-
         String env = System.getProperty("env", "production"); // default ke production
         config = ConfigReader.loadProperties(env);
         log.info("Loaded config env: {}", env);

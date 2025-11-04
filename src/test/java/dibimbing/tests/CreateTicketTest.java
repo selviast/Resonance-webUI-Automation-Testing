@@ -27,7 +27,7 @@ public class CreateTicketTest extends BaseTest {
             groups = {"regression", "test-log"})
     public void tc004_createTicketPublic() {
 
-        SoftAssert softAssert = new SoftAssert();
+//        SoftAssert softAssert = new SoftAssert();
 
         LoginPage loginPage = new LoginPage(DriverManager.getDriver());
         CreateTicketPage createTicketPage = new CreateTicketPage(DriverManager.getDriver());
@@ -44,14 +44,14 @@ public class CreateTicketTest extends BaseTest {
         createTicketPage.setSubmitTicket();
         createTicketPage.assertCreateTicketSuccess();
 
-        softAssert.assertAll();
+//        softAssert.assertAll();
 
     }
 
     @Test(description = "TC005: Verifikasi berhasil Create Ticket Page Private",
             groups = {"regression", "test-log"})
     public void tc005_createTicketPrivate() {
-        SoftAssert softAssert = new SoftAssert();
+//        SoftAssert softAssert = new SoftAssert();
 
         LoginPage loginPage = new LoginPage(DriverManager.getDriver());
         CreateTicketPage createTicketPage = new CreateTicketPage(DriverManager.getDriver());
@@ -67,7 +67,55 @@ public class CreateTicketTest extends BaseTest {
         createTicketPage.setCheckboxPrivate();
         createTicketPage.setSubmitTicket();
         createTicketPage.assertCreateTicketSuccess();
-        softAssert.assertAll();
+
+//        softAssert.assertAll();
+
+    }
+
+    @Test(description = "TC026: Verifikasi berhasil Create Ticket Tanpa Upload Image",
+            groups = {"regression", "test-log"})
+    public void tc026_createTicketWithoutUploadImage() {
+//        SoftAssert softAssert = new SoftAssert();
+
+        LoginPage loginPage = new LoginPage(DriverManager.getDriver());
+        CreateTicketPage createTicketPage = new CreateTicketPage(DriverManager.getDriver());
+        DashboardPage dashboardPage = new DashboardPage(DriverManager.getDriver());
+
+        loginPage.login(config.getProperty("test.email"), config.getProperty("test.password"));
+        loginPage.assertLoginSuccess();
+        dashboardPage.navigateToCreateTicketPage();
+        createTicketPage.assertNavigateCreateTicketSuccess();
+        createTicketPage.setTitleCreateTicket();
+        createTicketPage.setInputTicketDescription();
+//        createTicketPage.setUploadFileInput();
+        createTicketPage.setCheckboxPrivate();
+        createTicketPage.setSubmitTicket();
+        createTicketPage.assertCreateTicketSuccess();
+
+//        softAssert.assertAll();
+
+    }
+    @Test(description = "TC027: Verifikasi berhasil Create Ticket Public Tanpa Upload Image",
+            groups = {"test-log"})
+    public void tc027_createTicketPublicWithoutUploadImage() {
+//        SoftAssert softAssert = new SoftAssert();
+
+        LoginPage loginPage = new LoginPage(DriverManager.getDriver());
+        CreateTicketPage createTicketPage = new CreateTicketPage(DriverManager.getDriver());
+        DashboardPage dashboardPage = new DashboardPage(DriverManager.getDriver());
+
+        loginPage.login(config.getProperty("test.email"), config.getProperty("test.password"));
+        loginPage.assertLoginSuccess();
+        dashboardPage.navigateToCreateTicketPage();
+        createTicketPage.assertNavigateCreateTicketSuccess();
+        createTicketPage.setTitleCreateTicket();
+        createTicketPage.setInputTicketDescription();
+//        createTicketPage.setUploadFileInput();
+        createTicketPage.setCheckboxPublic();
+        createTicketPage.setSubmitTicket();
+        createTicketPage.assertCreateTicketSuccess();
+
+//        softAssert.assertAll();
 
     }
 }

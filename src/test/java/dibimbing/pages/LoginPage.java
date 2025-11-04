@@ -42,7 +42,7 @@ public class LoginPage extends BasePage {
         try {
             WebElement dashboardHeader = new WebDriverWait(driver, Duration.ofSeconds(5))
                     .until(ExpectedConditions.visibilityOfElementLocated(
-                            By.xpath("//p[@class='chakra-text css-oqyjp1' and contains(text(),'Active Issue')]") // ganti dengan element unik homepage
+                            By.xpath("//p[@class='chakra-text css-oqyjp1' and contains(text(),'Active Issue')]")
                     ));
 
             // Assert element muncul → berarti homepage tampil

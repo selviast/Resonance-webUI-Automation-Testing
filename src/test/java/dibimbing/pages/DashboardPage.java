@@ -37,6 +37,12 @@ public class DashboardPage extends BasePage{
     @FindBy (id = "btn-filter-order-newest")
     private WebElement filterOrderNewest;
 
+    @FindBy (id = "btn-open-navbar")
+    private WebElement sideMenu;
+
+    @FindBy (id = "btn-logout")
+    private WebElement logoutButton;
+
     public DashboardPage(WebDriver driver) {
         super(driver);
     }
@@ -198,6 +204,27 @@ public class DashboardPage extends BasePage{
             log.warn("Ticket tidak ditemukan di dashboard: {}", ticketTitle);
             return false;
         }
+    }
+
+    public void logout(){
+        sideMenu.click();
+        log.info("Akses Side Menu");
+        new WebDriverWait(driver, Duration.ofSeconds(5))
+                .until(ExpectedConditions.visibilityOf(logoutButton));
+        logoutButton.click();
+        log.info("Klik Logout");
+    }
+
+    public void assertIsLoggedOut() {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
+
+        // Tunggu sampai URL mengandung 'login' (atau sesuai path halaman login)
+        boolean isAtLoginPage = wait.until(ExpectedConditions.urlContains("/login"));
+
+        // Assert bahwa user benar-benar diarahkan ke halaman login
+        Assert.assertTrue(isAtLoginPage, "User tidak berada di halaman login!");
+
+        log.info("User berhasil logout dan berada di halaman login. URL: " + driver.getCurrentUrl());
     }
 
 

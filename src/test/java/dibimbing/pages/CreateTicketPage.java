@@ -90,7 +90,7 @@ public class CreateTicketPage extends BasePage{
 
         } catch (Exception e) {
             log.error("Gagal upload file: " + e.getMessage());
-            softAssert.fail("Upload file gagal — " + e.getMessage());
+            Assert.fail("Upload file gagal — " + e.getMessage());
         }
 
         try {

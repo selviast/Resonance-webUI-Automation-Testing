@@ -2,21 +2,34 @@
 <suite name="RegressionCrossBrowser" parallel="tests" thread-count="2">
     <test name="chromeTests">
         <parameter name="browser" value="chrome"/>
+        <groups>
+            <run>
+                <include name="regression"/>
+            </run>
+        </groups>
         <classes>
             <class name="dibimbing.tests.LoginTest"/>
             <class name="dibimbing.tests.RegisterTest"/>
             <class name="dibimbing.tests.CreateTicketTest"/>
             <class name="dibimbing.tests.DashboardTest"/>
+            <class name="dibimbing.tests.LogoutTest"/>
+
 
         </classes>
     </test>
     <test name="firefoxTests">
         <parameter name="browser" value="firefox"/>
+        <groups>
+        <run>
+            <include name="regression"/>
+        </run>
+        </groups>
         <classes>
             <class name="dibimbing.tests.LoginTest"/>
             <class name="dibimbing.tests.RegisterTest"/>
             <class name="dibimbing.tests.CreateTicketTest"/>
             <class name="dibimbing.tests.DashboardTest"/>
+            <class name="dibimbing.tests.LogoutTest"/>
 
         </classes>
     </test>

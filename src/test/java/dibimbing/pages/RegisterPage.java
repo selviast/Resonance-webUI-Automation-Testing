@@ -33,9 +33,6 @@ public class RegisterPage extends BasePage{
         super(driver);
     }
 
-    /**
-     * Method untuk register user baru
-     */
     public void register(String name, String email) {
         buatAkunLink.click();
         log.info("Registering email: {}", email);
@@ -45,10 +42,6 @@ public class RegisterPage extends BasePage{
         registerButton.click();
     }
 
-    /**
-     * Assertion untuk memastikan register berhasil
-     * Bisa cek toast message atau redirect ke halaman tertentu
-     */
     public void assertRegisterSuccess() {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 

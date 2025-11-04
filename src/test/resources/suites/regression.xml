@@ -4,8 +4,6 @@
         <listener class-name="dibimbing.core.TestListener"/>
     </listeners>
     <test name="LoginTests">
-<!--        <parameter name="browser" value="chrome"/>-->
-
         <groups>
             <run>
                 <include name="regression"/>
@@ -16,6 +14,8 @@
             <class name="dibimbing.tests.RegisterTest"/>
             <class name="dibimbing.tests.CreateTicketTest"/>
             <class name="dibimbing.tests.DashboardTest"></class>
+            <class name="dibimbing.tests.LogoutTest"></class>
+
         </classes>
     </test>
 </suite>
